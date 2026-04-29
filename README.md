@@ -3,7 +3,7 @@
 Rule-based resume scoring from JSON knowledge bases, optional second opinion via **Ollama** (local LLM).
 
 
-#Uses Software Engineering as default career
+Uses Software Engineering as default career
 ```bash
 python main.py samples/sample_resume.txt
 ```
