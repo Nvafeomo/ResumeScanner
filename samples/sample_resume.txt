@@ -1,0 +1,20 @@
+JANE DOE
+jane.doe@email.com | 555-0100 | linkedin.com/in/janedoe
+
+SUMMARY
+Computer science student focused on backend systems, testing, and APIs.
+
+EDUCATION
+State University — B.S. Computer Science (May 2026)
+Coursework: algorithms, data structures, databases
+
+EXPERIENCE
+Software Intern | Example Corp | Summer 2025
+- Built REST APIs in Python and wrote unit tests
+- Used Git and Linux servers daily; collaborated in agile sprints
+
+PROJECTS
+Resume Scanner — Python tool for keyword scoring and ATS-style feedback
+
+SKILLS
+Python, Java, SQL, Git, Linux, JavaScript, Docker basics, AWS class project

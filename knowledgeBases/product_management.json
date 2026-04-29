@@ -1,0 +1,13 @@
+{
+  "careerName": "Product Management",
+  "requiredSkills": ["roadmap", "stakeholders", "agile", "analytics", "prioritization"],
+  "preferredSkills": ["sql", "jira", "experiment", "metrics", "ux"],
+  "bonusKeywords": ["discovery", "backlog", "okr", "release", "hypothesis"],
+  "expectedSections": ["education", "experience", "skills", "summary"],
+  "scoreWeights": {
+    "requiredSkills": 35,
+    "preferredSkills": 20,
+    "sections": 20,
+    "keywordOverlap": 25
+  }
+}

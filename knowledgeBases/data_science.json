@@ -1,0 +1,13 @@
+{
+  "careerName": "Data Science",
+  "requiredSkills": ["python", "sql", "statistics", "pandas", "visualization"],
+  "preferredSkills": ["machine learning", "numpy", "scikit", "tableau", "spark"],
+  "bonusKeywords": ["experiment", "pipeline", "jupyter", "eda", "regression"],
+  "expectedSections": ["education", "experience", "skills", "projects"],
+  "scoreWeights": {
+    "requiredSkills": 35,
+    "preferredSkills": 20,
+    "sections": 20,
+    "keywordOverlap": 25
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "careerName": "Software Engineering",
+  "requiredSkills": ["python", "java", "git", "sql", "linux"],
+  "preferredSkills": ["javascript", "docker", "kubernetes", "react", "aws"],
+  "bonusKeywords": ["api", "testing", "agile", "ci", "algorithms"],
+  "expectedSections": ["education", "experience", "skills", "projects"],
+  "scoreWeights": {
+    "requiredSkills": 35,
+    "preferredSkills": 20,
+    "sections": 20,
+    "keywordOverlap": 25
+  }
+}

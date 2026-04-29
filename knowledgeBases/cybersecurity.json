@@ -1,0 +1,13 @@
+{
+  "careerName": "Cybersecurity",
+  "requiredSkills": ["linux", "networking", "python", "tcp", "encryption"],
+  "preferredSkills": ["siem", "firewall", "vulnerability", "wireshark", "aws"],
+  "bonusKeywords": ["incident", "compliance", "malware", "forensics", "phishing"],
+  "expectedSections": ["education", "experience", "skills", "certifications"],
+  "scoreWeights": {
+    "requiredSkills": 35,
+    "preferredSkills": 20,
+    "sections": 20,
+    "keywordOverlap": 25
+  }
+}
